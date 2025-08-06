@@ -17,9 +17,7 @@
 
 # 🔷 Baekjoon 🔷
 
-<a href="https://solved.ac/pas901">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pas901"/>
-</a>
+<a href="https://solved.ac/profile/pas901"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=pas901"></a>
 
 <!-- Links -->
 <br/>
