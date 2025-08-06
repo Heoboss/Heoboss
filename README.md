@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&fontColor=E6E6FA&height=200&section=header&text=Welcome+to+HyunKang's+Github!&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&fontColor=333333A&height=200&section=header&text=Welcome+to+HyunKang's+Github!&fontSize=50"/>
 
 <!-- 기술 스택 -->
 # 🚀 Tech Stacks 🚀
