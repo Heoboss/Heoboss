@@ -37,4 +37,9 @@
 
 <!-- solved.ac 프로필 -->
 <h1 align="center">🚀 Baekjoon </h1>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pas901)](https://solved.ac/pas901)
+<p align="center">
+  <a href="https://solved.ac/pas901">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pas901"/>
+  </a>
+</p>
+
