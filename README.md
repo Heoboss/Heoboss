@@ -1,7 +1,8 @@
 <!-- header -->
 <!-- header (rect style) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ACBCFF&fontColor=0F1035&height=180&section=header&text=Welcome%20to%20HyunKang's%20Github!&fontSize=36"/>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+HyunKang's+Github!&fontsize=38"/>
 </p>
 
 
