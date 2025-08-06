@@ -2,7 +2,7 @@
 <!-- header (rect style) -->
 <p align="center">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+HyunKang's+Github!&fontsize=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+HyunKang's+Github!&fontsize=36"/>
 </p>
 
 
