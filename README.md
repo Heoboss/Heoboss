@@ -34,3 +34,5 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
+<!-- solved.ac 프로필 -->
+[![Solved.ac프로필](http://mazassumnidda.wtf/api/v2/generate_badge?boj=pas901)](https://solved.ac/pas901)
