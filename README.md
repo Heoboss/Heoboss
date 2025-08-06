@@ -5,10 +5,10 @@
 
 
 <!-- 기술 스택 -->
-<h2>🚀 Tech Stacks</h2>
+<h1 align="center">🚀 Tech Stacks</h1>
 
 <!-- Backend -->
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
@@ -18,7 +18,7 @@
 </p>
 
 <!-- Frontend -->
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
@@ -27,7 +27,7 @@
 </p>
 
 <!-- Tools -->
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
@@ -36,4 +36,5 @@
 </p>
 
 <!-- solved.ac 프로필 -->
+<h1 align="center">🚀 Baekjoon </h1>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pas901)](https://solved.ac/pas901)
