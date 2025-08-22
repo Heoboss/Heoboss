@@ -23,15 +23,15 @@
 <table>
   <tr>
     <td>
-      <a href="https://heozhendong.tistory.com/">
-        <img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/@2024_final_ros_project_konkuk">
-        <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-      </a>
-    </td>
+      <a href="https://heozhendong.tistory.com/">
+        <img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@2024_final_ros_project_konkuk">
+        <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      </a>
+    </td>
     <td>
       <a href="https://stupendous-grey-4db.notion.site/Notion-2571e1d60f1b80098934fb10c6167ddd">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
