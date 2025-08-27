@@ -13,7 +13,7 @@
 <br/>
 </div>
 
-## 🧠 주요 프로젝트
+# 🧠 주요 프로젝트
 
 - 💼 **[Python 자동화 프로젝트](https://github.com/Heoboss/Python-Automation-Project)**:  
     취준생을 위한 올인원 패키지를 Flask를 활용하여 웹사이트로 제공합니다.  
