@@ -11,7 +11,22 @@
 | <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Verilog%20HDL-0033CC?style=for-the-badge&logoColor=white"> | <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=white"> <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=QEMU&logoColor=black"> |
 
 <br/>
+</div>
 
+## 🧠 주요 프로젝트
+
+- 💼 **[Python 자동화 프로젝트](https://github.com/Heoboss/Python-Automation-Project)**:  
+    취준생을 위한 올인원 패키지를 Flask를 활용하여 웹사이트로 제공합니다.  
+- 🤖 **[자율주행 도서 로봇 프로젝트](https://github.com/Heoboss/Ros-Navigation-Project)**:  
+    **🏅 건국대학교 창의설계 경진대회 – 장려상 수상작**  
+    라즈베리파이4, 아두이노 우노 보드와 Ros1 noetic을 활용하여 검색한 도서의 책장 위치까지 자율주행 후  
+    도서를 뽑아 사용자에게 전달하는 사회적 약자를 위한 프로젝트입니다.  
+
+
+
+
+<div align="center">
+      
 # 🔷 Baekjoon 🔷
 
 <a href="https://solved.ac/profile/pas901"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=pas901"></a>
