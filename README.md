@@ -18,6 +18,8 @@
 
 </div>
 
+- ♦️ **[UART+FIFO + 스톱워치/시계 프로젝트](https://github.com/Heoboss/Project-UART-Stopwatch)**:  
+    PC와 basys3간의 UART 통신을 통해 스톱워치/시계를 제어하는 프로젝트입니다. 통신 과정에서 burst data에 대처하기 위해 fifo를 사용합니다.
 - 💼 **[Python 자동화 프로젝트](https://github.com/Heoboss/Python-Automation-Project)**:  
     취준생을 위한 올인원 패키지를 Flask를 활용하여 웹사이트로 제공합니다.  
 - 🤖 **[자율주행 도서 로봇 프로젝트](https://github.com/Heoboss/Ros-Navigation-Project)**:  
