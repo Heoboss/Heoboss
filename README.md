@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&fontColor=333333A&height=200&section=header&text=Welcome+to+HyunKang's+Github!&fontSize=50"/>
 
-# 🚀 Tech Stacks 🚀
+# 🚀 Tech Stacks
 
 | What I've Used 🖥️ | Tools 🔨 |
 |:------:|:---:|
@@ -30,7 +30,7 @@
 
 <div align="center">
       
-# 🔷 Baekjoon 🔷
+# 🔷 Baekjoon
 
 <a href="https://solved.ac/profile/pas901"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=pas901"></a>
 
