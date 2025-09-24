@@ -20,7 +20,7 @@
 
 - ⌚ **[Digital CLock + 온습도/초음파 센서 프로젝트](https://github.com/Heoboss/Project-Digital-Clock-Sensor)**:  
     FPGA(Basys3)를 이용해 시계, 스톱워치, 타이머 기능과 더불어 온/습도(DHT11), 거리(초음파) 센서를 통합 제어하고, UART 통신으로 PC와 연동한 IoT 시스템 설계 프로젝트입니다.
-- ♦️ **[UART+FIFO + 스톱워치/시계 프로젝트](https://github.com/Heoboss/Project-UART-Stopwatch)**:  
+- 🛜 **[UART+FIFO + 스톱워치/시계 프로젝트](https://github.com/Heoboss/Project-UART-Stopwatch)**:  
     PC와 basys3간의 UART 통신을 통해 스톱워치/시계를 제어하는 프로젝트입니다. 통신 과정에서 burst data에 대처하기 위해 fifo를 사용합니다.
 - 💼 **[Python 자동화 프로젝트](https://github.com/Heoboss/Python-Automation-Project)**:  
     취준생을 위한 올인원 패키지를 Flask를 활용하여 웹사이트로 제공합니다.  
