@@ -18,7 +18,7 @@
 
 </div>
 
-- 🧠 **[RISC-V RV32I Single Cycle CPU Core 설계](https://github.com/Heoboss/Project-RISC-V-RV32I)**:
+- 🧠 **[RISC-V RV32I Single Cycle CPU Core 설계](https://github.com/Heoboss/Project-RISC-V-RV32I)**:  
     SystemVerilog를 사용하여 RISC-V의 RV32I ISA를 지원하는 Single Cycle CPU Core를 설계한 프로젝트입니다. R, I, S, B, U, J 모든 타입의 명령어를 구현하고, C언어 버블 정렬 프로그램을 컴파일한 어셈블리 코드를 실행하여 기능의 정확성을 검증했습니다.
 - ⌚ **[Digital CLock + 온습도/초음파 센서 프로젝트](https://github.com/Heoboss/Project-Digital-Clock-Sensor)**:  
     FPGA(Basys3)를 이용해 시계, 스톱워치, 타이머 기능과 더불어 온/습도(DHT11), 거리(초음파) 센서를 통합 제어하고, UART 통신으로 PC와 연동한 IoT 시스템 설계 프로젝트입니다.
