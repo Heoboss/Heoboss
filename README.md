@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://stupendous-grey-4db.notion.site/Hello-I-m-HyunKang-2571e1d60f1b804abf5ee6cf10b8c83c?pvs=74">
+      <a href="https://hyunkang-heo.notion.site/Hello-I-m-HyunKang-2571e1d60f1b804abf5ee6cf10b8c83c">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
       </a>
     </td>
