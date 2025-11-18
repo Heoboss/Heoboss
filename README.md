@@ -18,6 +18,10 @@
 
 </div>
 
+- 📡 **[SoC AXI4-Lite I2C Master/Slave 설계 및 UVM 검증](https://github.com/Heoboss/Project-SoC-SPI-I2C)**:  
+    AXI4-Lite 인터페이스 기반 I2C Master/Slave IP를 설계하고 UVM 방법론을 적용하여 검증한 프로젝트입니다. MicroBlaze CPU와 연동하여 두 대의 FPGA 간 점프 게임 어플리케이션을 구현했습니다.
+- 🚌 **[RISC-V Multi-Cycle CPU & AMBA APB UART 설계](https://github.com/Heoboss/Project-RISC-V-AMBA-APB-Peripheral)**:  
+    RISC-V Multi-Cycle CPU 코어를 구현하고, 표준 버스 프로토콜인 AMBA APB를 통해 UART Peripheral을 연동한 SoC 설계 프로젝트입니다.
 - 🧠 **[RISC-V RV32I Single Cycle CPU Core 설계](https://github.com/Heoboss/Project-RISC-V-RV32I)**:  
     SystemVerilog를 사용하여 RISC-V의 RV32I ISA를 지원하는 Single Cycle CPU Core를 설계한 프로젝트입니다. R, I, S, B, U, J 모든 타입의 명령어를 구현하고, C언어 버블 정렬 프로그램을 컴파일한 어셈블리 코드를 실행하여 기능의 정확성을 검증했습니다.
 - ⌚ **[Digital CLock + 온습도/초음파 센서 프로젝트](https://github.com/Heoboss/Project-Digital-Clock-Sensor)**:  
@@ -27,8 +31,7 @@
 - 💼 **[Python 자동화 프로젝트](https://github.com/Heoboss/Python-Automation-Project)**:  
     취준생을 위한 올인원 패키지를 Flask를 활용하여 웹사이트로 제공합니다.  
 - 🤖 **[자율주행 도서 로봇 프로젝트](https://github.com/Heoboss/Ros-Navigation-Project)**:  
-    **🏅 건국대학교 창의설계 경진대회 – 장려상 수상작**  
-    라즈베리파이4, 아두이노 우노 보드와 Ros1 noetic을 활용하여 검색한 도서의 책장 위치까지 자율주행 후  
+    **🏅 건국대학교 창의설계 경진대회 – 장려상 수상작** 라즈베리파이4, 아두이노 우노 보드와 Ros1 noetic을 활용하여 검색한 도서의 책장 위치까지 자율주행 후  
     도서를 뽑아 사용자에게 전달하는 사회적 약자를 위한 프로젝트입니다.
 - 👤 **[AI 얼굴 인식 블러 처리 프로젝트](https://github.com/Heoboss/Project-Face-Blur)**:  
     초상권 보호를 위해 Custom AI 모델을 훈련시킨 얼굴을 제외한 사람들의 얼굴을 블러 처리하는 프로젝트입니다.  
@@ -47,8 +50,8 @@
 # 🔗 Links
 
 <table>
-  <tr>
-    <td>
+  <tr>
+    <td>
       <a href="https://hyunkang-heo.notion.site/Hello-I-m-HyunKang-2571e1d60f1b804abf5ee6cf10b8c83c">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
       </a>
@@ -63,7 +66,7 @@
         <img src="https://img.shields.io/badge/TISTORY-ff7f00?style=for-the-badge&logo=tistory&logoColor=white">
       </a>
     </td>
-  </tr>
+  </tr>
 </table>
 
 
