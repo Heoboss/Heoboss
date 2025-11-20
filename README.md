@@ -31,7 +31,8 @@
 - 💼 **[Python 자동화 프로젝트](https://github.com/Heoboss/Python-Automation-Project)**:  
     취준생을 위한 올인원 패키지를 Flask를 활용하여 웹사이트로 제공합니다.  
 - 🤖 **[자율주행 도서 로봇 프로젝트](https://github.com/Heoboss/Ros-Navigation-Project)**:  
-    **🏅 건국대학교 창의설계 경진대회 – 장려상 수상작** 라즈베리파이4, 아두이노 우노 보드와 Ros1 noetic을 활용하여 검색한 도서의 책장 위치까지 자율주행 후  
+    **🏅 건국대학교 창의설계 경진대회 – 장려상 수상작**  
+  라즈베리파이4, 아두이노 우노 보드와 Ros1 noetic을 활용하여 검색한 도서의 책장 위치까지 자율주행 후  
     도서를 뽑아 사용자에게 전달하는 사회적 약자를 위한 프로젝트입니다.
 - 👤 **[AI 얼굴 인식 블러 처리 프로젝트](https://github.com/Heoboss/Project-Face-Blur)**:  
     초상권 보호를 위해 Custom AI 모델을 훈련시킨 얼굴을 제외한 사람들의 얼굴을 블러 처리하는 프로젝트입니다.  
