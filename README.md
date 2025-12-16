@@ -54,8 +54,15 @@ OV7670 카메라와 VGA 출력을 활용한 4인 멀티플레이어 레이싱 �
 
 <table>
   <tr>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://hyunkang-heo.notion.site/Hello-I-m-HyunKang-2571e1d60f1b804abf5ee6cf10b8c83c">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+      </a>
+      <br/>
+      <b>✏️ 하만 시스템 반도체 설계 및 검증 2기<br/>학습 과정 & 프로젝트 정리</b>
+    </td> -->
+    <td align="center">
+      <a href="https://hyunkang.pas901901.workers.dev">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
       </a>
       <br/>
