@@ -13,38 +13,15 @@
 
 <div align="center">
 
-### Languages
-<img src="https://img.shields.io/badge/Verilog%20HDL-0033CC?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/SystemVerilog-5395FD?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-### Boards
-<img src="https://img.shields.io/badge/FPGA%20Basys3-2E5C99?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-<img src="https://img.shields.io/badge/JETSON%20NANO-6DB33F?style=for-the-badge&logo=nvidia&logoColor=white">
-
-### Tools
-<img src="https://img.shields.io/badge/Vivado-BAA636?style=for-the-badge&logo=xilinx&logoColor=white">
-<img src="https://img.shields.io/badge/Vitis-E60012?style=for-the-badge&logo=xilinx&logoColor=white">
-<img src="https://img.shields.io/badge/Synopsys%20VCS/Verdi-683D87?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=white">
-<img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=QEMU&logoColor=black">
+| Category | Stacks |
+| :---: | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Verilog%20HDL-0033CC?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/SystemVerilog-5395FD?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
+| **Boards** | <img src="https://img.shields.io/badge/FPGA%20Basys3-2E5C99?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/JETSON%20NANO-6DB33F?style=for-the-badge&logo=nvidia&logoColor=white"> |
+| **Tools** | <img src="https://img.shields.io/badge/Vivado-BAA636?style=for-the-badge&logo=xilinx&logoColor=white"> <img src="https://img.shields.io/badge/Vitis-E60012?style=for-the-badge&logo=xilinx&logoColor=white"> <img src="https://img.shields.io/badge/Synopsys%20VCS/Verdi-683D87?style=for-the-badge&logoColor=white"><br><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><br><img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=white"> <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=QEMU&logoColor=black"> |  
+  
 
 </div>
 
-<br/>
-</div>
-<div align="center">
 
 # 🧠 주요 프로젝트
 
