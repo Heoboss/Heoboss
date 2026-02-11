@@ -2,6 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&fontColor=333333A&height=200&section=header&text=Welcome+to+HyunKang's+Github!&fontSize=50"/>
 
+ --- 
+ # 💼 Career 
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/72db27af-1ca7-4e9e-8afa-a55e591299a6" />
+   
+ ### **Current Position:** 🔹 **Verification Engineer Specializing in UVM/SystemVerilog**  
+ 
+ ---
+
+
 # 🚀 Tech Stacks
 <!--
 | **Languages** | **Boards** | **Tools** |
