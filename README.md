@@ -4,9 +4,9 @@
 
  --- 
  # 💼 Career 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/72db27af-1ca7-4e9e-8afa-a55e591299a6" />
-   
- ### **Current Position:** 🔹 **Verification Engineer Specializing in UVM/SystemVerilog**  
+<img width="400" height="300" alt="Gemini_Generated_Image_orilpiorilpioril" src="https://github.com/user-attachments/assets/ce92324d-3b14-4529-9e98-35463838c666" />  
+
+ ### **Verification Engineer Specializing in UVM/SystemVerilog**  
  
  ---
 
